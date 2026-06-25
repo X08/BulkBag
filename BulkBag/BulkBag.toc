@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## Title: BulkBag
 ## Notes: Drag-select inventory items
-## Author: You
-## Version: 0.1
+## Author: X08@Github
+## Version: 1.0
 
 BulkBag.lua
